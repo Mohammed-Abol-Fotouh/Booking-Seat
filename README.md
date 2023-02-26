@@ -1,6 +1,4 @@
 # Movie-Booking-Seat
-<<<<<<< HEAD
-=======
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
@@ -14,4 +12,3 @@ Display movie choices and seats in a theater to select from in order to purchase
 - Save seats, movie and price to local storage so that UI is still populated on refresh
 
 Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
->>>>>>> f675475 (Add files and HTML structure)
